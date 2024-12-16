@@ -15,12 +15,11 @@ Spoken Languages: Spanish, English
 Frameworks: ASP.NET, React, Django
 
 Tools: PostgreSQL, Jira
----
 
 Hobbies: 
+---
+- Fantasy Football ('22 Super Bowl Finalist 🥈, '24 President's Trophy 🏆)
 
-Fantasy Football ('22 Super Bowl Finalist 🥈, '24 President's Trophy 🏆)
+- Movies... https://letterboxd.com/andycorrales/
 
-Movies... https://letterboxd.com/andycorrales/
-
-Stardew Valley Modding (Beginner)
+- Stardew Valley Modding (Beginner)
